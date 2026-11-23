@@ -29,12 +29,12 @@ I am a passionate **full-stack software engineer & AI builder** who specializes 
 
 <div align="center">
 
-| 🐾 [**TheGoodVets** — Modern SaaS Veterinary EHR & Practice Management](https://github.com/Utkarsh01-Hey/theGoodvets) |
+| 🐾 [**TheGoodVets** — Modern SaaS Veterinary EHR & Practice Management](https://thegoodvets.in) |
 | :--- |
 | **An end-to-end multi-tenant veterinary healthcare management platform** designed to streamline daily clinic workflows. Bridges the gap between veterinary doctors, clinic receptionists, and pet parents with cloud-native electronic medical records, appointment scheduling, and automated messaging. |
 | **Key Highlights**: <br>• 📋 **Patient & CRM Hub**: Multi-pet profiles, breeds, microchips, and longitudinal health histories.<br>• 💉 **Clinical Treatments & EHR**: Digital logs for consultations, diagnostic findings, surgeries, and vaccination schedules.<br>• 📱 **Modern Architecture**: Mobile-first responsive UI (Dark mode native), multi-tenant tenancy, and role-based access. |
 | **Tech Stack**: `React` • `TypeScript` • `Node.js` • `Express` • `MongoDB Atlas` • `TailwindCSS` • `Vite` |
-| 👉 **[Explore TheGoodVets Repository →](https://github.com/Utkarsh01-Hey/theGoodvets)** |
+| 🌐 **[Visit Live Platform (thegoodvets.in) →](https://thegoodvets.in)** |
 
 </div>
 
