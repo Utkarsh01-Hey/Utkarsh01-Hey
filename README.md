@@ -103,6 +103,4 @@ A suite of high-performance tools, creative workflows, and autonomous AI engines
 "Building isn’t just about writing code — it’s about creating experiences people vibe with."
 ```
 
-<sub>Engineered with broadsheet terminal aesthetics inspired by <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a>.</sub>
-
 </div>
