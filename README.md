@@ -80,27 +80,6 @@ A suite of high-performance tools, creative workflows, and autonomous AI engines
 
 ---
 
-### 🏆 Top Codebases Ranked by Commits
-
-```
-┌────┬──────────────────────────────────┬─────────┬───────────────────────────┐
-│ #  │ REPOSITORY NAME                  │ COMMITS │ PRIMARY DOMAIN            │
-├────┼──────────────────────────────────┼─────────┼───────────────────────────┤
-│ 01 │ Heleo-Code (Cli-Yukto)           │   849   │ AI Terminal Assistant     │
-│ 02 │ theGoodvets                      │   442   │ Veterinary Clinical EHR   │
-│ 03 │ Heleo-Connect (Heleo Sync)       │   129   │ Meta WhatsApp Cloud API   │
-│ 04 │ Heleo-Vox                        │   111   │ Real-Time Voice AI        │
-│ 05 │ Heleo-Edit                       │    70   │ Multimedia Studio Canvas  │
-│ 06 │ RailOpt-AI                       │    56   │ Transit Route Optimization│
-│ 07 │ Omnihub                          │    27   │ Multi-Service API Gateway │
-│ 08 │ Heleo-Studio                     │    26   │ FilmCraft Video Editor    │
-│ 09 │ Search-Pilot                     │    18   │ Autonomous Web Research   │
-│ 10 │ Memi-Offline Elderly Assistant   │    13   │ Cognitive Offline AI      │
-└────┴──────────────────────────────────┴─────────┴───────────────────────────┘
-```
-
----
-
 ### 🛠️ Hardware & Software Protocols
 
 <p align="center">
