@@ -19,11 +19,7 @@
 
 <!-- GitAscii Real-Time SVG Telemetry Deck -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/Utkarsh01-Hey?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/Utkarsh01-Hey?theme=light" />
-    <img src="https://gitascii.com/api/Utkarsh01-Hey" alt="GitAscii Profile Deck" width="100%" />
-  </picture>
+  <img src="gitascii.svg" alt="Utkarsh Shirshwar Telemetry Deck" width="100%" />
 </p>
 
 </div>
