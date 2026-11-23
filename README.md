@@ -1,138 +1,133 @@
-<h1 align="center">Hey there, I'm Utkarsh Shirshwar 👋</h1>
-
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Architect+%26+AI+Engineer;Creator+of+TheGoodVets+SaaS+Platform;Architect+of+the+Heleo+AI+%26+Creative+Suite;Building+High-Impact%2C+Polish-First+Products" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Utkarsh01-Hey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/utkarsh-shirshwar-1a32a9289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://utkarshshirshwar.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:shirshwal44+github@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **full-stack software engineer & AI builder** who specializes in engineering complex web platforms, real-time multimedia tooling, and intelligent agent systems. I care deeply about snappy user experiences, rock-solid architecture, and clean code aesthetics.
-
-- 🔭 **Currently Building**: Expanding the **Heleo Suite** (developer tools & multimedia engines) and scaling **TheGoodVets** (veterinary clinical EHR).
-- 💡 **Core Philosophy**: *“For me, building isn't just about writing code — it's about crafting experiences people vibe with.”*
-- ⚡ **Superpowers**: Rapid 0-to-1 prototyping, pixel-accurate UI execution, multi-modal AI integration, and full-stack performance tuning.
-
----
-
-### 🌟 Featured Flagship: TheGoodVets
-
 <div align="center">
 
-| 🐾 [**TheGoodVets** — Modern SaaS Veterinary EHR & Practice Management](https://thegoodvets.in) |
-| :--- |
-| **An end-to-end multi-tenant veterinary healthcare management platform** designed to streamline daily clinic workflows. Bridges the gap between veterinary doctors, clinic receptionists, and pet parents with cloud-native electronic medical records, appointment scheduling, and automated messaging. |
-| **Key Highlights**: <br>• 📋 **Patient & CRM Hub**: Multi-pet profiles, breeds, microchips, and longitudinal health histories.<br>• 💉 **Clinical Treatments & EHR**: Digital logs for consultations, diagnostic findings, surgeries, and vaccination schedules.<br>• 📱 **Modern Architecture**: Mobile-first responsive UI (Dark mode native), multi-tenant tenancy, and role-based access. |
-| **Tech Stack**: `React` • `TypeScript` • `Node.js` • `Express` • `MongoDB Atlas` • `TailwindCSS` • `Vite` |
-| 🌐 **[Visit Live Platform (thegoodvets.in) →](https://thegoodvets.in)** |
+```ascii
+ _   _ _   _              _       ____  _     _           _                         
+| | | | |_| |____ _ _ __ | |__   / ___|| |__ (_)_ __ ___| |____      ____ _ _ __  
+| | | | __| / / _` | '__|| '_ \  \___ \| '_ \| | '__/ __| '_ \ \ /\ / / _` | '__| 
+| |_| | |_|   < (_| | |   | | | |  ___) | | | | | |  \__ \ | | \ V  V / (_| | |    
+ \___/ \__|_|\_\__,_|_|   |_| |_| |____/|_| |_|_|_|  |___/_| |_|\_/\_/ \__,_|_|    
+```
+
+### `[ SYSTEM OPERATIONAL // APPLIED AI & FULL-STACK ARCHITECT ]`
+
+<p align="center">
+  <a href="https://github.com/Utkarsh01-Hey"><img src="https://img.shields.io/badge/Identity-Utkarsh01--Hey-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub" /></a>
+  <a href="https://thegoodvets.in"><img src="https://img.shields.io/badge/Flagship-thegoodvets.in-c5ff4a?style=for-the-badge&logo=statuspage&logoColor=c5ff4a&labelColor=060606" alt="TheGoodVets" /></a>
+  <a href="https://www.linkedin.com/in/utkarsh-shirshwar-1a32a9289"><img src="https://img.shields.io/badge/LinkedIn-Connect-c5ff4a?style=for-the-badge&logo=linkedin&logoColor=c5ff4a&labelColor=060606" alt="LinkedIn" /></a>
+  <a href="mailto:shirshwal44+github@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-c5ff4a?style=for-the-badge&logo=gmail&logoColor=c5ff4a&labelColor=060606" alt="Email" /></a>
+</p>
+
+<!-- GitAscii Real-Time SVG Telemetry Deck -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitascii.com/api/Utkarsh01-Hey?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gitascii.com/api/Utkarsh01-Hey?theme=light" />
+    <img src="https://gitascii.com/api/Utkarsh01-Hey" alt="GitAscii Profile Deck" width="100%" />
+  </picture>
+</p>
 
 </div>
 
 ---
 
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 📟 SYSTEM TELEMETRY // CORE IDENTIFICATION                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ IDENTITY     : Utkarsh Shirshwar                                            │
+│ USERNAME     : @Utkarsh01-Hey                                               │
+│ DISCIPLINE   : Full-Stack Architecture • Real-Time Systems • Applied AI     │
+│ CORE MOTTO   : "For me, coding is not just a skill — it's a vibe."         │
+│ ACTIVE BUILDS: TheGoodVets SaaS EHR • The Heleo AI Suite                     │
+│ STATUS       : ACTIVE // DEPLOYING HIGH-PERFORMANCE DIGITAL EXPERIENCES     │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🐾 Featured Flagship: TheGoodVets
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PRODUCT      : TheGoodVets (Modern SaaS Veterinary EHR Platform)            │
+│ LIVE DOMAIN  : https://thegoodvets.in                                       │
+│ ROLE         : Founder & Lead Architect                                     │
+│ ARCHITECTURE : Multi-Tenant SaaS • Cloud-Native • Mobile-First PWA          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+> **TheGoodVets** is an end-to-end, multi-tenant veterinary clinic management and Electronic Health Records (EHR) ecosystem. It bridges the gap between veterinary doctors, clinic receptionists, and pet parents with cloud-native medical charts, appointment scheduling, diagnostic imaging records, and automated vaccination reminders.
+
+- 📋 **Patient & Client CRM**: Centralized health records across multi-pet households, breed specifics, and longitudinal history.
+- 💉 **Clinical Treatments & EHR**: Digital consultation workflows, diagnostic finding entries, surgical notes, and automated prescription logs.
+- 📱 **Modern Architecture**: Pure dark-mode native UI built with `React`, `TypeScript`, `Node.js`, `Express`, `MongoDB Atlas`, and `TailwindCSS`.
+
+👉 **[Launch TheGoodVets Platform (thegoodvets.in) →](https://thegoodvets.in)**
+
+---
+
 ### ⚡ The Heleo Ecosystem
 
-A suite of high-performance tools and AI orchestrators engineered to push the boundaries of developer workflows, audio/video creation, and agentic autonomy:
+A suite of high-performance tools, creative workflows, and autonomous AI engines engineered for modern developers and creators:
 
-| Project | Highlights & Capabilities | Tech Stack | Status |
+| Module | Purpose & Core Capabilities | Architecture / Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🚀 **[Heleo Code](https://github.com/Utkarsh01-Hey/Heleo-Code)** | Next-gen terminal AI coding assistant & full-stack orchestrator. Native multi-model discovery, modern file explorer picker, and hero terminal UI. | `TypeScript` • `Bun` • `React/Ink` • `AI SDK` | **Active** |
-| 🎬 **[Heleo Studio](https://github.com/Utkarsh01-Hey/Heleo-Studio)** | High-performance browser & native video editor powered by the FilmCraft engine. 1:1 timeline editing, audio mixer, color scopes & export pipelines. | `React` • `Vite` • `TypeScript` • `TailwindCSS` • `Web Audio` | **Active** |
-| 🎙️ **[Heleo Vox](https://github.com/Utkarsh01-Hey/Heleo-Vox)** | Real-time conversational Voice AI assistant & interactive playground with low-latency streaming and dynamic pricing models. | `TypeScript` • `React` • `WebRTC` • `Streaming Audio` | **Active** |
-| 🔄 **[Heleo Sync](https://github.com/Utkarsh01-Hey/Heleo-Connect)** | Enterprise omnichannel messaging & Meta Embedded WhatsApp Cloud API onboarding wizard with multi-tenant flow compilers. | `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` | **Active** |
-| 🤖 **[Heleo Mate](https://github.com/Utkarsh01-Hey/Heleo-Mate)** | Intelligent desktop companion & contextual AI assistant designed for fluid multitasking and developer acceleration. | `TypeScript` • `Electron / Web` • `Multi-Agent` | **Active** |
-| 🛡️ **[Heleo Bot](https://github.com/Utkarsh01-Hey/Heleo-Bot)** | Multi-platform autonomous AI automation bot with seamless webhook integrations and asynchronous dispatch. | `Node.js` • `TypeScript` • `Bot Framework` | **Active** |
-| ✍️ **[Heleo Scribe](https://github.com/Utkarsh01-Hey/Heleo-Scribe-)** | Intelligent automated speech-to-text transcription & structured clinical/meeting documentation engine with speaker diarization. | `Python` • `FastAPI` • `Whisper` • `React` | **Active** |
-| 🎨 **Heleo Design** | Next-generation AI design-to-code workspace & component canvas, translating Figma designs into production-ready UI systems. | `TypeScript` • `React` • `TailwindCSS` • `Figma API` | **Active** |
-| 🗂️ **Heleo Workspace** | Centralized developer orchestration environment with multi-repo project management, contextual memory canvas & agent routing. | `TypeScript` • `Electron` • `React` • `WebSockets` | **Active** |
+| 🚀 **Heleo Code** | Next-generation terminal AI coding assistant & full-stack orchestrator. Native multi-model discovery & modern file explorer picker. | `TypeScript` • `Bun` • `React/Ink` • `AI SDK` | `STABLE` |
+| 🎬 **Heleo Studio** | High-performance browser & native video editor powered by the FilmCraft engine. 1:1 timeline editing, audio mixer, and color scopes. | `React` • `Vite` • `TypeScript` • `TailwindCSS` • `Web Audio` | `STABLE` |
+| 🎙️ **Heleo Vox** | Real-time conversational Voice AI assistant & interactive playground with low-latency streaming and dynamic pricing models. | `TypeScript` • `React` • `WebRTC` • `Streaming Audio` | `STABLE` |
+| 🔄 **Heleo Sync** | Enterprise omnichannel messaging & Meta Embedded WhatsApp Cloud API onboarding wizard with multi-tenant flow compilers. | `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` | `STABLE` |
+| 🤖 **Heleo Mate** | Intelligent desktop companion & contextual AI assistant designed for fluid multitasking and developer acceleration. | `TypeScript` • `Electron / Web` • `Multi-Agent` | `ACTIVE` |
+| 🛡️ **Heleo Bot** | Multi-platform autonomous AI automation bot with seamless webhook integrations and asynchronous dispatch. | `Node.js` • `TypeScript` • `Bot Framework` | `ACTIVE` |
+| ✍️ **Heleo Scribe** | Automated speech-to-text clinical & meeting documentation engine with real-time speaker diarization and structured summaries. | `Python` • `FastAPI` • `Whisper` • `React` | `ACTIVE` |
+| 🎨 **Heleo Design** | AI-native design-to-code workspace & component canvas, translating Figma designs into production-ready UI systems. | `TypeScript` • `React` • `TailwindCSS` • `Figma API` | `ACTIVE` |
+| 🗂️ **Heleo Workspace**| Centralized developer orchestration environment with multi-repo project management, contextual memory canvas & agent routing. | `TypeScript` • `Electron` • `React` • `WebSockets` | `ACTIVE` |
 
 ---
 
-### 🌐 More Notable Projects
+### 🏆 Top Codebases Ranked by Commits
 
-- 🎨 **[Portfolio Website](https://github.com/Utkarsh01-Hey/Portfolio-Website-)**: My personal modern developer portfolio, showcase, and creative playground.
-- ⚡ **[Hacknovate Frontend](https://github.com/Utkarsh01-Hey/Hacknovate-Frontend)**: Collaborative hackathon & competition submission dashboard.
-- 💬 **[Chat Bot Local](https://github.com/Utkarsh01-Hey/Chat-bot-local)**: Privacy-focused local LLM chat interface.
+```
+┌────┬──────────────────────────────────┬─────────┬───────────────────────────┐
+│ #  │ REPOSITORY NAME                  │ COMMITS │ PRIMARY DOMAIN            │
+├────┼──────────────────────────────────┼─────────┼───────────────────────────┤
+│ 01 │ Heleo-Code (Cli-Yukto)           │   849   │ AI Terminal Assistant     │
+│ 02 │ theGoodvets                      │   442   │ Veterinary Clinical EHR   │
+│ 03 │ Heleo-Connect (Heleo Sync)       │   129   │ Meta WhatsApp Cloud API   │
+│ 04 │ Heleo-Vox                        │   111   │ Real-Time Voice AI        │
+│ 05 │ Heleo-Edit                       │    70   │ Multimedia Studio Canvas  │
+│ 06 │ RailOpt-AI                       │    56   │ Transit Route Optimization│
+│ 07 │ Omnihub                          │    27   │ Multi-Service API Gateway │
+│ 08 │ Heleo-Studio                     │    26   │ FilmCraft Video Editor    │
+│ 09 │ Search-Pilot                     │    18   │ Autonomous Web Research   │
+│ 10 │ Memi-Offline Elderly Assistant   │    13   │ Cognitive Offline AI      │
+└────┴──────────────────────────────────┴─────────┴───────────────────────────┘
+```
 
 ---
 
-### 🛠 Tech Stack & Toolbox
+### 🛠️ Hardware & Software Protocols
 
 <p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Frontend & Frameworks</b><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend & Real-Time</b><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Databases & Cloud</b><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Vibe & AI Tools</b><br>
-  <code>Cursor</code> • <code>Bolt.new</code> • <code>Lovable</code> • <code>Builder.io</code> • <code>Dora.run</code> • <code>Figma</code> • <code>Postman</code>
+  <img src="https://img.shields.io/badge/TypeScript-060606?style=for-the-badge&logo=typescript&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/JavaScript-060606?style=for-the-badge&logo=javascript&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/Python-060606?style=for-the-badge&logo=python&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/React-060606?style=for-the-badge&logo=react&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/Next.js-060606?style=for-the-badge&logo=nextdotjs&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/Node.js-060606?style=for-the-badge&logo=nodedotjs&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/TailwindCSS-060606?style=for-the-badge&logo=tailwindcss&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/MongoDB-060606?style=for-the-badge&logo=mongodb&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/Docker-060606?style=for-the-badge&logo=docker&logoColor=c5ff4a" />
+  <img src="https://img.shields.io/badge/AWS-060606?style=for-the-badge&logo=amazonaws&logoColor=c5ff4a" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh01-Hey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Utkarsh's GitHub stats" />
-</p>
+```
+"Building isn’t just about writing code — it’s about creating experiences people vibe with."
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh01-Hey&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<sub>Engineered with broadsheet terminal aesthetics inspired by <a href="https://github.com/Igorcbraz/GitAscii"><b>GitAscii</b></a>.</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh01-Hey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Let's build something awesome together. Feel free to explore my repositories or reach out!</i>
-  <br><br>
-  <a href="mailto:shirshwal44+github@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20In%20Touch-shirshwal44%2Bgithub%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Contact Me" />
-  </a>
-</p>
+</div>
