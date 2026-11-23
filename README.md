@@ -67,7 +67,7 @@ A cutting-edge suite of high-performance developer tools, multimedia creation su
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ PRODUCT      : TheGoodVets (Modern SaaS Veterinary EHR Platform)            │
 │ LIVE DOMAIN  : https://thegoodvets.in                                       │
-│ ROLE         : Founder & Lead Architect                                     │
+│ ROLE         : Full-Stack Developer                                         │
 │ ARCHITECTURE : Multi-Tenant SaaS • Cloud-Native • Mobile-First PWA          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
