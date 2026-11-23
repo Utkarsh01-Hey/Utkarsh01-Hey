@@ -52,6 +52,9 @@ A suite of high-performance tools and AI orchestrators engineered to push the bo
 | 🔄 **[Heleo Sync](https://github.com/Utkarsh01-Hey/Heleo-Connect)** | Enterprise omnichannel messaging & Meta Embedded WhatsApp Cloud API onboarding wizard with multi-tenant flow compilers. | `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` | **Active** |
 | 🤖 **[Heleo Mate](https://github.com/Utkarsh01-Hey/Heleo-Mate)** | Intelligent desktop companion & contextual AI assistant designed for fluid multitasking and developer acceleration. | `TypeScript` • `Electron / Web` • `Multi-Agent` | **Active** |
 | 🛡️ **[Heleo Bot](https://github.com/Utkarsh01-Hey/Heleo-Bot)** | Multi-platform autonomous AI automation bot with seamless webhook integrations and asynchronous dispatch. | `Node.js` • `TypeScript` • `Bot Framework` | **Active** |
+| ✍️ **[Heleo Scribe](https://github.com/Utkarsh01-Hey/Heleo-Scribe-)** | Intelligent automated speech-to-text transcription & structured clinical/meeting documentation engine with speaker diarization. | `Python` • `FastAPI` • `Whisper` • `React` | **Active** |
+| 🎨 **Heleo Design** | Next-generation AI design-to-code workspace & component canvas, translating Figma designs into production-ready UI systems. | `TypeScript` • `React` • `TailwindCSS` • `Figma API` | **Active** |
+| 🗂️ **Heleo Workspace** | Centralized developer orchestration environment with multi-repo project management, contextual memory canvas & agent routing. | `TypeScript` • `Electron` • `React` • `WebSockets` | **Active** |
 
 ---
 
