@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/Utkarsh01-Hey"><img src="https://img.shields.io/badge/Identity-Utkarsh01--Hey-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub" /></a>
-  <a href="https://thegoodvets.in"><img src="https://img.shields.io/badge/Flagship-thegoodvets.in-c5ff4a?style=for-the-badge&logo=statuspage&logoColor=c5ff4a&labelColor=060606" alt="TheGoodVets" /></a>
+  <a href="#-flagship-ecosystem-heleo"><img src="https://img.shields.io/badge/Flagship-Heleo%20Ecosystem-c5ff4a?style=for-the-badge&logo=rocket&logoColor=c5ff4a&labelColor=060606" alt="Heleo Flagship" /></a>
+  <a href="https://thegoodvets.in"><img src="https://img.shields.io/badge/Platform-thegoodvets.in-c5ff4a?style=for-the-badge&logo=statuspage&logoColor=c5ff4a&labelColor=060606" alt="TheGoodVets" /></a>
   <a href="https://www.linkedin.com/in/utkarsh-shirshwar-1a32a9289"><img src="https://img.shields.io/badge/LinkedIn-Connect-c5ff4a?style=for-the-badge&logo=linkedin&logoColor=c5ff4a&labelColor=060606" alt="LinkedIn" /></a>
   <a href="mailto:shirshwal44+github@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-c5ff4a?style=for-the-badge&logo=gmail&logoColor=c5ff4a&labelColor=060606" alt="Email" /></a>
 </p>
@@ -34,14 +35,33 @@
 │ USERNAME     : @Utkarsh01-Hey                                               │
 │ DISCIPLINE   : Full-Stack Architecture • Real-Time Systems • Applied AI     │
 │ CORE MOTTO   : "For me, coding is not just a skill — it's a vibe."         │
-│ ACTIVE BUILDS: TheGoodVets SaaS EHR • The Heleo AI Suite                     │
+│ FLAGSHIP     : Heleo (AI Creative & Developer Ecosystem)                   │
+│ PLATFORM     : TheGoodVets SaaS EHR (https://thegoodvets.in)                │
 │ STATUS       : ACTIVE // DEPLOYING HIGH-PERFORMANCE DIGITAL EXPERIENCES     │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🐾 Featured Flagship: TheGoodVets
+### ⚡ Flagship Ecosystem: Heleo
+
+A cutting-edge suite of high-performance developer tools, multimedia creation suites, and autonomous AI agents:
+
+| Module | Purpose & Core Capabilities | Architecture / Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🚀 **Heleo Code** | Next-generation terminal AI coding assistant & full-stack orchestrator. Native multi-model discovery & modern file explorer picker. | `TypeScript` • `Bun` • `React/Ink` • `AI SDK` | `STABLE` |
+| 🎬 **Heleo Studio** | High-performance browser & native video editor powered by the FilmCraft engine. 1:1 timeline editing, audio mixer, and color scopes. | `React` • `Vite` • `TypeScript` • `TailwindCSS` • `Web Audio` | `STABLE` |
+| 🎙️ **Heleo Vox** | Real-time conversational Voice AI assistant & interactive playground with low-latency streaming and dynamic pricing models. | `TypeScript` • `React` • `WebRTC` • `Streaming Audio` | `STABLE` |
+| 🔄 **Heleo Sync** | Enterprise omnichannel messaging & Meta Embedded WhatsApp Cloud API onboarding wizard with multi-tenant flow compilers. | `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` | `STABLE` |
+| 🤖 **Heleo Mate** | Intelligent desktop companion & contextual AI assistant designed for fluid multitasking and developer acceleration. | `TypeScript` • `Electron / Web` • `Multi-Agent` | `ACTIVE` |
+| 🛡️ **Heleo Bot** | Multi-platform autonomous AI automation bot with seamless webhook integrations and asynchronous dispatch. | `Node.js` • `TypeScript` • `Bot Framework` | `ACTIVE` |
+| ✍️ **Heleo Scribe** | Automated speech-to-text clinical & meeting documentation engine with real-time speaker diarization and structured summaries. | `Python` • `FastAPI` • `Whisper` • `React` | `ACTIVE` |
+| 🎨 **Heleo Design** | AI-native design-to-code workspace & component canvas, translating Figma designs into production-ready UI systems. | `TypeScript` • `React` • `TailwindCSS` • `Figma API` | `ACTIVE` |
+| 🗂️ **Heleo Workspace**| Centralized developer orchestration environment with multi-repo project management, contextual memory canvas & agent routing. | `TypeScript` • `Electron` • `React` • `WebSockets` | `ACTIVE` |
+
+---
+
+### 🐾 Featured Clinical Platform: TheGoodVets
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,24 +79,6 @@
 - 📱 **Modern Architecture**: Pure dark-mode native UI built with `React`, `TypeScript`, `Node.js`, `Express`, `MongoDB Atlas`, and `TailwindCSS`.
 
 👉 **[Launch TheGoodVets Platform (thegoodvets.in) →](https://thegoodvets.in)**
-
----
-
-### ⚡ The Heleo Ecosystem
-
-A suite of high-performance tools, creative workflows, and autonomous AI engines engineered for modern developers and creators:
-
-| Module | Purpose & Core Capabilities | Architecture / Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🚀 **Heleo Code** | Next-generation terminal AI coding assistant & full-stack orchestrator. Native multi-model discovery & modern file explorer picker. | `TypeScript` • `Bun` • `React/Ink` • `AI SDK` | `STABLE` |
-| 🎬 **Heleo Studio** | High-performance browser & native video editor powered by the FilmCraft engine. 1:1 timeline editing, audio mixer, and color scopes. | `React` • `Vite` • `TypeScript` • `TailwindCSS` • `Web Audio` | `STABLE` |
-| 🎙️ **Heleo Vox** | Real-time conversational Voice AI assistant & interactive playground with low-latency streaming and dynamic pricing models. | `TypeScript` • `React` • `WebRTC` • `Streaming Audio` | `STABLE` |
-| 🔄 **Heleo Sync** | Enterprise omnichannel messaging & Meta Embedded WhatsApp Cloud API onboarding wizard with multi-tenant flow compilers. | `Node.js` • `Express` • `Meta Cloud API` • `MongoDB` | `STABLE` |
-| 🤖 **Heleo Mate** | Intelligent desktop companion & contextual AI assistant designed for fluid multitasking and developer acceleration. | `TypeScript` • `Electron / Web` • `Multi-Agent` | `ACTIVE` |
-| 🛡️ **Heleo Bot** | Multi-platform autonomous AI automation bot with seamless webhook integrations and asynchronous dispatch. | `Node.js` • `TypeScript` • `Bot Framework` | `ACTIVE` |
-| ✍️ **Heleo Scribe** | Automated speech-to-text clinical & meeting documentation engine with real-time speaker diarization and structured summaries. | `Python` • `FastAPI` • `Whisper` • `React` | `ACTIVE` |
-| 🎨 **Heleo Design** | AI-native design-to-code workspace & component canvas, translating Figma designs into production-ready UI systems. | `TypeScript` • `React` • `TailwindCSS` • `Figma API` | `ACTIVE` |
-| 🗂️ **Heleo Workspace**| Centralized developer orchestration environment with multi-repo project management, contextual memory canvas & agent routing. | `TypeScript` • `Electron` • `React` • `WebSockets` | `ACTIVE` |
 
 ---
 
