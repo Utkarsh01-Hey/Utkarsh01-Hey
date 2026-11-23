@@ -1,14 +1,10 @@
 <div align="center">
 
-```ascii
- _   _ _   _              _       ____  _     _           _                         
-| | | | |_| |____ _ _ __ | |__   / ___|| |__ (_)_ __ ___| |____      ____ _ _ __  
-| | | | __| / / _` | '__|| '_ \  \___ \| '_ \| | '__/ __| '_ \ \ /\ / / _` | '__| 
-| |_| | |_|   < (_| | |   | | | |  ___) | | | | | |  \__ \ | | \ V  V / (_| | |    
- \___/ \__|_|\_\__,_|_|   |_| |_| |____/|_| |_|_|_|  |___/_| |_|\_/\_/ \__,_|_|    
-```
+<p align="center">
+  <img src="banner.svg" alt="Utkarsh Shirshwar - Heleo Code Brand Wordmark" width="100%" />
+</p>
 
-### `[ SYSTEM OPERATIONAL // APPLIED AI & FULL-STACK ARCHITECT ]`
+### `[ SYSTEM OPERATIONAL // APPLIED AI & FULL-STACK DEVELOPER ]`
 
 <p align="center">
   <a href="https://github.com/Utkarsh01-Hey"><img src="https://img.shields.io/badge/Identity-Utkarsh01--Hey-c5ff4a?style=for-the-badge&logo=github&logoColor=c5ff4a&labelColor=060606" alt="GitHub" /></a>
